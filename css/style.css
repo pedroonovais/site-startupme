@@ -18,7 +18,7 @@ body{
 }
 
 header{
-    background: url("../images/bg-header.jpg") center top;
+    background: rgb(93,92,95) url("../images/bg-header.jpg") top no-repeat;
 }
 
 header div{
